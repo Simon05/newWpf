@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Button x:Name="button" Content="Login" HorizontalAlignment="Left" Margin="229,219,0,0" VerticalAlignment="Top" Width="84" Click="button_Click" Height="29" FontFamily="Global Monospace" FontSize="20" Background="#FFD1F1CC"/>
+        <Button x:Name="button" Content="Login" HorizontalAlignment="Left" Margin="229,219,0,0" VerticalAlignment="Top" Width="84" Click="button_Click" Height="29" FontFamily="Global Monospace" FontSize="20" Background="#FFA9F19D"/>
         <TextBox x:Name="txt_username" HorizontalAlignment="Left" Height="29" Margin="207,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160"/>
         <Label x:Name="username" Content="Username" HorizontalAlignment="Left" Margin="86,78,0,0" VerticalAlignment="Top" FontFamily="Global Monospace" FontSize="22" FontWeight="Bold"/>
         <Label x:Name="password" Content="Password" HorizontalAlignment="Left" Margin="81,135,0,0" VerticalAlignment="Top" FontFamily="Global Monospace" FontSize="22" FontWeight="Bold"/>
